@@ -23,4 +23,6 @@ until tentatives == 10 || correct_answer
   end
 end
 
-puts "Número de tentativas esgotado. A respota era #{answer}" unless answer
+unless correct_answer
+  puts "Número de tentativas esgotado. A respota era #{answer}"
+end
