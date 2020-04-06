@@ -20,7 +20,7 @@ class Dog
     puts "O cachorro #{@name} está indo para #{destino}"
   end
 
-  def talk
+  def talk1
     puts 'Late'
   end
 
