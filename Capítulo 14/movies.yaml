@@ -1,0 +1,11 @@
+---
+1: !ruby/object:Movie
+  nome: Harry
+  autor: J.K
+  ano: '1999'
+  id: 1
+2: !ruby/object:Movie
+  nome: HArry 2
+  autor: J.K
+  ano: '2001'
+  id: 2
